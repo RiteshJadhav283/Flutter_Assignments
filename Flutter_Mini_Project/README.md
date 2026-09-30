@@ -1,4 +1,4 @@
-# Flutter Mini Project (Job Portal App)
+# Flutter Mini Project (Job Portal App).
 
 A modern Flutter web & mobile application featuring job search, job details, application submission with resume upload, and saved jobs management.
 
